@@ -73,6 +73,8 @@ I'm a backend-focused software engineer who builds and ships production-grade AP
 - Key highlight: e.g. "REST API serving 10k+ requests/day" or "JWT-based auth with role management"
 - 🔗 [Live Demo](#)
 
+---
+
 #### [AMS.COM.KH](https://ams.com.kh)
 > One-line description of what it does and the problem it solves.
 - Built with **NuxtJS**, **Wordpress**, **MySQL**, and **Kubernetes**
