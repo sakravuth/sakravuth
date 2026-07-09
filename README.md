@@ -67,29 +67,11 @@ I'm a backend-focused software engineer who builds and ships production-grade AP
 
 ### 🚀 Featured Projects
 
-#### [Project Name 1](https://github.com/yourusername/project-1)
+#### [Thortok](https://thortok.com)
 > One-line description of what it does and the problem it solves.
-- Built with **Spring Boot**, **PostgreSQL**, and **Docker**
+- Built with **Laravel**, **NextJS**, **VueJS**, **Spring Boot**, **PostgreSQL**, and **Docker**
 - Key highlight: e.g. "REST API serving 10k+ requests/day" or "JWT-based auth with role management"
-- 🔗 [Live Demo](#) · [Repo](#)
-
-#### [Project Name 2](https://github.com/yourusername/project-2)
-> One-line description.
-- Built with **Laravel**, **MySQL**, **Redis**
-- Key highlight: e.g. "Multi-tenant SaaS backend with queue-based background jobs"
-- 🔗 [Live Demo](#) · [Repo](#)
-
-#### [Project Name 3](https://github.com/yourusername/project-3)
-> One-line description.
-- Built with **Node.js**, **Express**, **MongoDB**
-- Key highlight: e.g. "Real-time API with WebSocket support, containerized with Docker Compose"
-- 🔗 [Live Demo](#) · [Repo](#)
-
-#### [Project Name 4](https://github.com/yourusername/project-4)
-> One-line description.
-- Built with **Kubernetes**, **Docker**, **CI/CD pipeline**
-- Key highlight: e.g. "Deployed a 3-service microservice architecture with auto-scaling and rolling updates on K8s"
-- 🔗 [Live Demo](#) · [Repo](#)
+- 🔗 [Live Demo](#)
 
 ---
 
